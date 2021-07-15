@@ -1,4 +1,4 @@
-# M2OEP-Class-Relationships-cbremner-ewest3
+# ReadMe
 
 This program includes 4 classes: Shop, Cafe, Drink, and Customer. 
 Shop is the parent class and includes fields for the name, location, sales (money coming into the shop), and costs (expenses for the shop) for a shop.
