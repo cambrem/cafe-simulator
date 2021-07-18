@@ -1,5 +1,7 @@
 # Cafe Simulator
 
+Demo Video: https://youtu.be/3aneH0L_Q9k
+
 This program includes 4 classes: Shop, Cafe, Drink, and Customer. 
 Shop is the parent class and includes fields for the name, location, sales (money coming into the shop), and costs (expenses for the shop) for a shop.
 It has a constructor which takes a name and location, sets these fields with the values given, and sets sales and costs to zero, getters for all four fields, setters for name and location, and methods to add to sales and costs.
